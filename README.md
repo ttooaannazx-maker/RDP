@@ -1,4 +1,4 @@
-:name: RDP
+name: RDP
 # rdp by yamzz modifed
 on:
 workflow_dispatch:
